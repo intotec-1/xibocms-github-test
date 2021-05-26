@@ -19,3 +19,12 @@ git commit -m "내용등록 주석"
 
 git push origin master
 
+-----------------------------------
+
+다른사람의 git 가져오기
+
+새로운 폴더에서 git bash Here 클릭
+
+git init
+
+git remote add origin https://github.com/memoming/memoming_gitTest
