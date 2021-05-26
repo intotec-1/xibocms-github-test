@@ -15,7 +15,7 @@ git status
 
 git add .
 
-git commit -m "내용등록 주석"
+git commit -m "커밋내용 주석을 적는다"
 
 git push origin master
 
