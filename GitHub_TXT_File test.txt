@@ -1,3 +1,21 @@
 git Hub Testing 
 
-2021-05-26
+2021-05-26-----------------
+
+
+
+Pull Command-------
+
+git pull origin master
+
+
+Push Command--------------
+
+git status
+
+git add .
+
+git commit -m "내용등록 주석"
+
+git push origin +master
+
